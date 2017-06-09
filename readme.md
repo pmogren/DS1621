@@ -2,6 +2,11 @@
 
 Python library for Maxim/Dallas DS1621 I2C temperature sensor, originally written for Raspberry Pi's I2C-bus.  
 
+To install, 
+```
+easy_install -f "https://github.com/pmogren/DS1621/blob/master/DS1621.py#egg=DS1621-0.1" DS1621
+```
+
 ### Functional description  
 
 #### Primary functions  
